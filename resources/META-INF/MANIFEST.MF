@@ -1,0 +1,6 @@
+MIDlet-Name: DefaultRobot
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: TemplateRobot, , edu.wpi.first.wpilibj.defaultCode.DefaultRobot
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
